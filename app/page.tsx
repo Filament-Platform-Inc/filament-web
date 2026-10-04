@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 const GITHUB_ORG = "https://github.com/Filament-Platform-Inc";
-const FOUNDERS_URL = "https://founders.filamentplatform.com";
+const FOUNDERS_URL = "https://hasnain.filamentplatform.com";
 const CONTACT_EMAIL = "hello@filamentplatform.com";
 const SENSOR_URL = "https://sensor.filamentplatform.com";
 
